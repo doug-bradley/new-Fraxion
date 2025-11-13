@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Kendo theme (default) */
+
+:root { color-scheme: light dark }
